@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1596362975631,
+  "timestamp": 1596363159293,
   "index": "https://voronacarmaster.github.io/admin/index.html",
   "assetGroups": [
     {
@@ -32,7 +32,7 @@
   "dataGroups": [],
   "hashTable": {
     "https://voronacarmaster.github.io/admin/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://voronacarmaster.github.io/admin/index.html": "197e3785e65d6443a84eefdbc8825b1ab548b226",
+    "https://voronacarmaster.github.io/admin/index.html": "c30de3e6100e92a57df9011f9f5a35e9722e0a4c",
     "https://voronacarmaster.github.io/admin/main-es2015.e0206f0638361ca1b4b7.js": "58d0abe4c66a8b71fe535bcd240e98410be85056",
     "https://voronacarmaster.github.io/admin/main-es5.e0206f0638361ca1b4b7.js": "9ba13fcbe2e6c35ce47152f8418a5b55d6595b31",
     "https://voronacarmaster.github.io/admin/manifest.webmanifest": "c0cc4c4c78373512927e5bd21bcbe7879856b5b9",
