@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1596363159293,
+  "timestamp": 1596364204325,
   "index": "https://voronacarmaster.github.io/admin/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "https://voronacarmaster.github.io/admin/favicon.ico",
         "https://voronacarmaster.github.io/admin/index.html",
-        "https://voronacarmaster.github.io/admin/main-es2015.e0206f0638361ca1b4b7.js",
-        "https://voronacarmaster.github.io/admin/main-es5.e0206f0638361ca1b4b7.js",
+        "https://voronacarmaster.github.io/admin/main-es2015.2a85e9bcd2edd4bafa00.js",
+        "https://voronacarmaster.github.io/admin/main-es5.2a85e9bcd2edd4bafa00.js",
         "https://voronacarmaster.github.io/admin/manifest.webmanifest",
         "https://voronacarmaster.github.io/admin/polyfills-es2015.690002c25ea8557bb4b0.js",
         "https://voronacarmaster.github.io/admin/polyfills-es5.9e286f6d9247438cbb02.js",
@@ -32,9 +32,9 @@
   "dataGroups": [],
   "hashTable": {
     "https://voronacarmaster.github.io/admin/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://voronacarmaster.github.io/admin/index.html": "c30de3e6100e92a57df9011f9f5a35e9722e0a4c",
-    "https://voronacarmaster.github.io/admin/main-es2015.e0206f0638361ca1b4b7.js": "58d0abe4c66a8b71fe535bcd240e98410be85056",
-    "https://voronacarmaster.github.io/admin/main-es5.e0206f0638361ca1b4b7.js": "9ba13fcbe2e6c35ce47152f8418a5b55d6595b31",
+    "https://voronacarmaster.github.io/admin/index.html": "855e6550bbd808cd05435d74c461b5691ed40eea",
+    "https://voronacarmaster.github.io/admin/main-es2015.2a85e9bcd2edd4bafa00.js": "35b5dbaad5820e12a8d0949295dc8fb41ee03e58",
+    "https://voronacarmaster.github.io/admin/main-es5.2a85e9bcd2edd4bafa00.js": "f03e0ad35e2fe5962bbf0a4f8e452a2459158ecb",
     "https://voronacarmaster.github.io/admin/manifest.webmanifest": "c0cc4c4c78373512927e5bd21bcbe7879856b5b9",
     "https://voronacarmaster.github.io/admin/polyfills-es2015.690002c25ea8557bb4b0.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
     "https://voronacarmaster.github.io/admin/polyfills-es5.9e286f6d9247438cbb02.js": "e51a1de4f016cd689dbdbef51043dec9518c4111",
